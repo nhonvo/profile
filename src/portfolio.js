@@ -252,50 +252,266 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
-      subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
-      footerLink: [
+      "title": "Google Project Management",
+      "subtitle": null,
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          "name": "Show Credential",
+          "url": "https://chat.openai.com/c/6af6cf3a-33b2-4c7d-a10c-dfd9851ebb3a#"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
-      footerLink: [
+      "title": "Cloud Developer",
+      "subtitle": null,
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          "name": "Show Credential",
+          "url": "https://chat.openai.com/c/6af6cf3a-33b2-4c7d-a10c-dfd9851ebb3a#"
         }
       ]
     },
-
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
-      footerLink: [
-        {name: "Certification", url: ""},
+      "title": "Google Data Analytics",
+      "subtitle": null,
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          "name": "Show Credential",
+          "url": "https://chat.openai.com/c/6af6cf3a-33b2-4c7d-a10c-dfd9851ebb3a#"
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level School",
+      "subtitle": "Acknowledged as a student of 5 merits level school in 2023.",
+      "image": require("./assets/images/Competition/sv5t-2023.jpg"),
+      "imageAlt": "School Merit Logo",
+      "footerLink": [
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level Faculty",
+      "subtitle": "Acknowledged as a student of 5 merits level faculty in 2023.",
+      "image": null,
+      "imageAlt": "School Merit Logo",
+      "footerLink": [
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Code Your Future Competition 2023",
+      "subtitle": "Achieved the second prize in Code Your Future 2023 - “Portfolio - Logistics”.",
+      "image": require("./assets/images/Competition/code-your-future.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link Article",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14613378-cuoc-thi-code-your-future-2023"
+        },
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Work at FPT Software - Software Developer",
+      "subtitle": null,
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "null"
+        },
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "IT Got Talent 2022 - Table B",
+      "subtitle": "Achieved the first prize in IT Got Talent 2022 - Table B with the project \"Smart Device & Desktop Application - Nobita Smart Bank\".",
+      "image": require("./assets/images/Competition/it-got-talent.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "HDBank Hackthon 2022",
+      "subtitle": "Achieved the first prize in HDBank Hackthon 2022.",
+      "image": require("./assets/images/Competition/hdbank.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/homepage/tin-tuc/hoat-dong-sinh-vien/14607882-khoa-cong-nghe-thong-tin-to-chuc-vong-chung-ket-va-le-trao-giai-cuoc-thi-hdbank-hackathon-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level School 2022",
+      "subtitle": "Recognized as a student of 5 merits level school in 2022.",
+      "image": require("./assets/images/Competition/sv5t2021.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Faculty 2022",
+      "subtitle": "Recognized as a student of 5 merits level faculty in 2022.",
+      "image": require("./assets/images/Competition/sv5t-faculty-2022.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "HUTECH Talent Scholarship 2022",
+      "subtitle": "Achieved the top GPA and gained HUTECH Talent Scholarship in 2020.",
+      "image": require("./assets/images/Competition/scholarship2021-2022.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "AI Challenge 2022",
+      "subtitle": "Awarded a consolation prize in AI Challenge 2022.",
+      "image": require("./assets/images/Competition/AI-Challenge.png"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "My First Website Competition 2022",
+      "subtitle": "Received a consolation prize in the My First Website Competition.",
+      "image": require("./assets/images/Competition/my-first-website.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "English B1 certificate",
+      "subtitle": "440 TOEIC points",
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "HUTECH Talent Scholarship 2021",
+      "subtitle": "Attained the top 3 GPA and received HUTECH Talent Scholarship in 2021.",
+      "image": require("./assets/images/Competition/scholarship2020-2021.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2021",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level School 2021",
+      "subtitle": "Acknowledged as a student of 5 merits level school in 2021.",
+      "image": require("./assets/images/Competition/sv5t2021.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2021",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Faculty Level 2021",
+      "subtitle": "Acknowledged as a student of 5 merits level faculty in 2021.",
+      "image": require("./assets/images/Competition/sv5t-2023.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2021",
+          "url": null
         }
       ]
     }
