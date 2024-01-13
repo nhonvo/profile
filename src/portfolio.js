@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Software developer, tech blogger, C# lover, a passion for open source and crafting innovative apps. Beyond the code, I'm an avid fan of anime."
   ),
-  resumeLink: "https://github.com/nhonvo/profile/blob/main/src/assets/cv.pdf", // Set to empty to hide the button
+  resumeLink: "./assets/cv.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -126,11 +126,11 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
+      Stack: "Backend", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Cloud",
       progressPercentage: "70%"
     },
     {
@@ -147,29 +147,27 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Fresher .NET Developer",
+      company: "FPT Software Academy",
+      companylogo: require("./assets/images/fpt-academy-logo.png"),
+      date: "February 2023 - August 2023", 
+      desc: "Joined as a fresher, undergoing intensive training and hands-on projects to build expertise in .NET development. Gained valuable skills and knowledge in software development practices.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Engaged in rigorous training programs focused on .NET development",
+        "Worked on practical projects to apply theoretical knowledge",
+        "Developed a strong foundation in software development practices"
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Software Developer",
+      company: "FPT Software",
+      companylogo: require("./assets/images/fpt-software-logo.jpg"),
+      date: "August 2023 - Present",
+      desc: "Working on outsourced software development projects in the logistics domain for the USA market. Collaborating with cross-functional teams to deliver high-quality solutions.",
+      descBullets: [
+        "Participating in the development of logistics software solutions",
+        "Collaborating with cross-functional teams for project success"
+      ]
     }
   ]
 };
@@ -178,7 +176,7 @@ const workExperiences = {
 To know how to get github key look at readme.md */
 
 const openSource = {
-  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
   display: false // Set false to hide this section, defaults to true
 };
 
