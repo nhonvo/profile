@@ -8,7 +8,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 // Splash Screen
 
 const splashScreen = {
-  enabled: true, // set false to disable splash screen
+  enabled: false, // set false to disable splash screen
   animation: splashAnimation,
   duration: 2000 // Set animation duration as per your animation
 };
@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Software developer, tech blogger, C# lover, a passion for open source and crafting innovative apps. Beyond the code, I'm an avid fan of anime."
   ),
-  resumeLink: "abc", // Set to empty to hide the button
+  resumeLink: "https://github.com/nhonvo/profile/blob/main/src/assets/cv.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
