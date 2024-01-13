@@ -212,44 +212,76 @@ const achievementSection = {
   achievementsCards: [
     {
       "title": "Google Project Management",
-      "subtitle": null,
-      "image": null,
+      "subtitle": "Project Management with Google's Project Management Certification",
+      "image": require("./assets/images/Certificate/gg-project.png"),
       "imageAlt": null,
-      "footerLink": [
+      "footerLink": [ 
+        {
+          "name": "management",
+          "url": null
+        },
+        {
+          "name": "agile/scrum",
+          "url": null
+        },
+        {
+          "name": "2023",
+          "url": null
+        },
         {
           "name": "Show Credential",
-          "url": "https://chat.openai.com/c/6af6cf3a-33b2-4c7d-a10c-dfd9851ebb3a#"
+          "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/3W96LMQHX3WT"
         }
       ]
     },
     {
       "title": "Cloud Developer",
-      "subtitle": null,
-      "image": null,
+      "subtitle": "Udacity's Cloud Developer about vps, IAM, EC2, ECS, S3",
+      "image": require("./assets/images/Certificate/cloud-dev-udacity.png"),
       "imageAlt": null,
       "footerLink": [
         {
+          "name": "aws",
+          "url": null
+        },
+        {
+          "name": "cloud",
+          "url": null
+        },
+        {
+          "name": "2023",
+          "url": null
+        },
+        {
           "name": "Show Credential",
-          "url": "https://chat.openai.com/c/6af6cf3a-33b2-4c7d-a10c-dfd9851ebb3a#"
+          "url": "https://confirm.udacity.com/e/f5009d0c-3b21-11ee-b039-dfe669e63fdd"
         }
       ]
     },
     {
       "title": "Google Data Analytics",
       "subtitle": null,
-      "image": null,
+      "image": require("./assets/images/Certificate/gg-data.png"),
       "imageAlt": null,
       "footerLink": [
         {
+          "name": "data",
+          "url": null
+        },
+        {
+          "name": "2023",
+          "url": null
+        },
+        {
           "name": "Show Credential",
-          "url": "https://chat.openai.com/c/6af6cf3a-33b2-4c7d-a10c-dfd9851ebb3a#"
+          "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/Z96HB9FWF83T"
         }
       ]
     },
     {
       "title": "Student of 5 Merits Level School",
       "subtitle": "Acknowledged as a student of 5 merits level school in 2023.",
-      "image": require("./assets/images/Competition/sv5t-2023.jpg"),
+      "image": null,
       "imageAlt": "School Merit Logo",
       "footerLink": [
         {
@@ -261,7 +293,7 @@ const achievementSection = {
     {
       "title": "Student of 5 Merits Level Faculty",
       "subtitle": "Acknowledged as a student of 5 merits level faculty in 2023.",
-      "image": null,
+      "image": require("./assets/images/Competition/sv5t-2023.jpg"),
       "imageAlt": "School Merit Logo",
       "footerLink": [
         {
@@ -288,8 +320,8 @@ const achievementSection = {
     },
     {
       "title": "Work at FPT Software - Software Developer",
-      "subtitle": null,
-      "image": null,
+      "subtitle": "Start career at FPT Software Academy - Fresh dotnet developer at Year 3 University",
+      "image": require("./assets/images/working.jpg"),
       "imageAlt": null,
       "footerLink": [
         {
@@ -417,7 +449,7 @@ const achievementSection = {
     {
       "title": "English B1 certificate",
       "subtitle": "440 TOEIC points",
-      "image": null,
+      "image": require("./assets/images/b1-cert.jpg"),
       "imageAlt": null,
       "footerLink": [
         {
@@ -445,7 +477,7 @@ const achievementSection = {
     {
       "title": "Student of 5 Merits Level School 2021",
       "subtitle": "Acknowledged as a student of 5 merits level school in 2021.",
-      "image": require("./assets/images/Competition/sv5t2021.jpg"),
+      "image": null,
       "imageAlt": null,
       "footerLink": [
         {
@@ -461,7 +493,7 @@ const achievementSection = {
     {
       "title": "Student of 5 Merits Faculty Level 2021",
       "subtitle": "Acknowledged as a student of 5 merits level faculty in 2021.",
-      "image": require("./assets/images/Competition/sv5t-2023.jpg"),
+      "image": null,
       "imageAlt": null,
       "footerLink": [
         {
@@ -487,16 +519,10 @@ const blogSection = {
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://nhonvo.github.io/2023/12/31/gitflow-and-githubflow/",
+      title: "Gitflow and Github flow",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
-    },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Version Control Workflow Analysis: Gitflow vs GitHub Flow"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -537,9 +563,9 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+    "Contact me via gmail.",
+  number: null,
+  email_address: "vothuongtruongnhon2002@gmail.com"
 };
 
 // Twitter Section
