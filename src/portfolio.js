@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Software developer, tech blogger, C# lover, a passion for open source and crafting innovative apps. Beyond the code, I'm an avid fan of anime."
   ),
-  resumeLink: "../../assets/cv.pdf", // Set to empty to hide the button
+  resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -278,234 +278,234 @@ const achievementSection = {
         }
       ]
     },
-    // {
-    //   "title": "Student of 5 Merits Level School",
-    //   "subtitle": "Acknowledged as a student of 5 merits level school in 2023.",
-    //   "image": null,
-    //   "imageAlt": "School Merit Logo",
-    //   "footerLink": [
-    //     {
-    //       "name": "2023",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Student of 5 Merits Level Faculty",
-    //   "subtitle": "Acknowledged as a student of 5 merits level faculty in 2023.",
-    //   "image": require("./assets/images/Competition/sv5t-2023.jpg"),
-    //   "imageAlt": "School Merit Logo",
-    //   "footerLink": [
-    //     {
-    //       "name": "2023",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Code Your Future Competition 2023",
-    //   "subtitle": "Achieved the second prize in Code Your Future 2023 - “Portfolio - Logistics”.",
-    //   "image": require("./assets/images/Competition/code-your-future.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link Article",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14613378-cuoc-thi-code-your-future-2023"
-    //     },
-    //     {
-    //       "name": "2023",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Work at FPT Software - Software Developer",
-    //   "subtitle": "Start career at FPT Software Academy - Fresh dotnet developer at Year 3 University",
-    //   "image": require("./assets/images/working.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "null"
-    //     },
-    //     {
-    //       "name": "2023",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "IT Got Talent 2022 - Table B",
-    //   "subtitle": "Achieved the first prize in IT Got Talent 2022 - Table B with the project \"Smart Device & Desktop Application - Nobita Smart Bank\".",
-    //   "image": require("./assets/images/Competition/it-got-talent.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "HDBank Hackthon 2022",
-    //   "subtitle": "Achieved the first prize in HDBank Hackthon 2022.",
-    //   "image": require("./assets/images/Competition/hdbank.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/homepage/tin-tuc/hoat-dong-sinh-vien/14607882-khoa-cong-nghe-thong-tin-to-chuc-vong-chung-ket-va-le-trao-giai-cuoc-thi-hdbank-hackathon-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Student of 5 Merits Level School 2022",
-    //   "subtitle": "Recognized as a student of 5 merits level school in 2022.",
-    //   "image": require("./assets/images/Competition/sv5t2021.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Student of 5 Merits Faculty 2022",
-    //   "subtitle": "Recognized as a student of 5 merits level faculty in 2022.",
-    //   "image": require("./assets/images/Competition/sv5t-faculty-2022.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "HUTECH Talent Scholarship 2022",
-    //   "subtitle": "Achieved the top GPA and gained HUTECH Talent Scholarship in 2020.",
-    //   "image": require("./assets/images/Competition/scholarship2021-2022.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "AI Challenge 2022",
-    //   "subtitle": "Awarded a consolation prize in AI Challenge 2022.",
-    //   "image": require("./assets/images/Competition/AI-Challenge.png"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "My First Website Competition 2022",
-    //   "subtitle": "Received a consolation prize in the My First Website Competition.",
-    //   "image": require("./assets/images/Competition/my-first-website.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2022",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "English B1 certificate",
-    //   "subtitle": "440 TOEIC points",
-    //   "image": require("./assets/images/b1-cert.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "HUTECH Talent Scholarship 2021",
-    //   "subtitle": "Attained the top 3 GPA and received HUTECH Talent Scholarship in 2021.",
-    //   "image": require("./assets/images/Competition/scholarship2020-2021.jpg"),
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2021",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Student of 5 Merits Level School 2021",
-    //   "subtitle": "Acknowledged as a student of 5 merits level school in 2021.",
-    //   "image": null,
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2021",
-    //       "url": null
-    //     }
-    //   ]
-    // },
-    // {
-    //   "title": "Student of 5 Merits Faculty Level 2021",
-    //   "subtitle": "Acknowledged as a student of 5 merits level faculty in 2021.",
-    //   "image": null,
-    //   "imageAlt": null,
-    //   "footerLink": [
-    //     {
-    //       "name": "Link",
-    //       "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-    //     },
-    //     {
-    //       "name": "2021",
-    //       "url": null
-    //     }
-    //   ]
-    // }
+    {
+      "title": "Student of 5 Merits Level School",
+      "subtitle": "Acknowledged as a student of 5 merits level school in 2023.",
+      "image": null,
+      "imageAlt": "School Merit Logo",
+      "footerLink": [
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level Faculty",
+      "subtitle": "Acknowledged as a student of 5 merits level faculty in 2023.",
+      "image": require("./assets/images/Competition/sv5t-2023.jpg"),
+      "imageAlt": "School Merit Logo",
+      "footerLink": [
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Code Your Future Competition 2023",
+      "subtitle": "Achieved the second prize in Code Your Future 2023 - “Portfolio - Logistics”.",
+      "image": require("./assets/images/Competition/code-your-future.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link Article",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14613378-cuoc-thi-code-your-future-2023"
+        },
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Work at FPT Software - Software Developer",
+      "subtitle": "Start career at FPT Software Academy - Fresh dotnet developer at Year 3 University",
+      "image": require("./assets/images/working.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "null"
+        },
+        {
+          "name": "2023",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "IT Got Talent 2022 - Table B",
+      "subtitle": "Achieved the first prize in IT Got Talent 2022 - Table B with the project \"Smart Device & Desktop Application - Nobita Smart Bank\".",
+      "image": require("./assets/images/Competition/it-got-talent.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "HDBank Hackthon 2022",
+      "subtitle": "Achieved the first prize in HDBank Hackthon 2022.",
+      "image": require("./assets/images/Competition/hdbank.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/homepage/tin-tuc/hoat-dong-sinh-vien/14607882-khoa-cong-nghe-thong-tin-to-chuc-vong-chung-ket-va-le-trao-giai-cuoc-thi-hdbank-hackathon-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level School 2022",
+      "subtitle": "Recognized as a student of 5 merits level school in 2022.",
+      "image": require("./assets/images/Competition/sv5t2021.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Faculty 2022",
+      "subtitle": "Recognized as a student of 5 merits level faculty in 2022.",
+      "image": require("./assets/images/Competition/sv5t-faculty-2022.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "HUTECH Talent Scholarship 2022",
+      "subtitle": "Achieved the top GPA and gained HUTECH Talent Scholarship in 2020.",
+      "image": require("./assets/images/Competition/scholarship2021-2022.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "AI Challenge 2022",
+      "subtitle": "Awarded a consolation prize in AI Challenge 2022.",
+      "image": require("./assets/images/Competition/AI-Challenge.png"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "My First Website Competition 2022",
+      "subtitle": "Received a consolation prize in the My First Website Competition.",
+      "image": require("./assets/images/Competition/my-first-website.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2022",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "English B1 certificate",
+      "subtitle": "440 TOEIC points",
+      "image": require("./assets/images/b1-cert.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "HUTECH Talent Scholarship 2021",
+      "subtitle": "Attained the top 3 GPA and received HUTECH Talent Scholarship in 2021.",
+      "image": require("./assets/images/Competition/scholarship2020-2021.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2021",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Level School 2021",
+      "subtitle": "Acknowledged as a student of 5 merits level school in 2021.",
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2021",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Student of 5 Merits Faculty Level 2021",
+      "subtitle": "Acknowledged as a student of 5 merits level faculty in 2021.",
+      "image": null,
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "Link",
+          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
+        },
+        {
+          "name": "2021",
+          "url": null
+        }
+      ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
