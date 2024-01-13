@@ -34,8 +34,4 @@ jobs:
           npm install
           npm run build
       - name: Deploy 🚀
-        uses: nhonvo/github-pages-deploy-action@v4
-        with:
-          GITHUB_TOKEN : ${{ secrets.GITHUBTOKEN }} # This is provided by GitHub.
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: build # The folder the action should deploy.
+        run: npm run deploy
