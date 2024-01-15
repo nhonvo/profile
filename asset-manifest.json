@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.eac1ce0b.css",
-    "main.js": "/profile/static/js/main.acb4b765.js",
+    "main.js": "/profile/static/js/main.f2559417.js",
     "static/css/64.f2727ba0.chunk.css": "/profile/static/css/64.f2727ba0.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/profile/static/js/64.56dc6704.chunk.js",
     "static/css/769.17f198c1.chunk.css": "/profile/static/css/769.17f198c1.chunk.css",
@@ -16,6 +16,7 @@
     "static/media/Montserrat-Regular.ttf": "/profile/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/fpt-academy-logo.png": "/profile/static/media/fpt-academy-logo.f06ede726b2463554a91.png",
     "static/media/sv5t-2023.jpg": "/profile/static/media/sv5t-2023.2be40a7b9b6adc16319a.jpg",
+    "static/media/sv5t-2023-school.jpg": "/profile/static/media/sv5t-2023-school.fe3fa4f0947e2d8fc2da.jpg",
     "static/media/code-your-future.jpg": "/profile/static/media/code-your-future.0f007e0d4d97c2c78087.jpg",
     "static/media/sv5t2021.jpg": "/profile/static/media/sv5t2021.b7aa94ebbee615bfd48a.jpg",
     "static/media/my-first-website.jpg": "/profile/static/media/my-first-website.1efbf29ca3a589675a80.jpg",
@@ -33,7 +34,7 @@
     "index.html": "/profile/index.html",
     "static/media/talksCardBack.svg": "/profile/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.eac1ce0b.css.map": "/profile/static/css/main.eac1ce0b.css.map",
-    "main.acb4b765.js.map": "/profile/static/js/main.acb4b765.js.map",
+    "main.f2559417.js.map": "/profile/static/js/main.f2559417.js.map",
     "64.f2727ba0.chunk.css.map": "/profile/static/css/64.f2727ba0.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/profile/static/js/64.56dc6704.chunk.js.map",
     "769.17f198c1.chunk.css.map": "/profile/static/css/769.17f198c1.chunk.css.map",
@@ -41,6 +42,6 @@
   },
   "entrypoints": [
     "static/css/main.eac1ce0b.css",
-    "static/js/main.acb4b765.js"
+    "static/js/main.f2559417.js"
   ]
 }
