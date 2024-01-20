@@ -281,7 +281,7 @@ const achievementSection = {
     {
       "title": "Student of 5 Merits Level School",
       "subtitle": "Acknowledged as a student of 5 merits level school in 2023.",
-      "image": quire("./assets/images/Competition/sv5t-2023-school.jpg"),
+      "image": require("./assets/images/Competition/sv5t-2023-school.jpg"),
       "imageAlt": "School Merit Logo",
       "footerLink": [
         {
