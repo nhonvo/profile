@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Software developer, tech blogger, C# lover, a passion for open source and crafting innovative apps. Beyond the code, I'm an avid fan of anime."
   ),
-  resumeLink: "", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1lf_qQZDwp8imr2-Qa9fV89UGzHbSLfNl/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -321,7 +321,7 @@ const achievementSection = {
     {
       "title": "Work at FPT Software - Software Developer",
       "subtitle": "Start career at FPT Software Academy - Fresh dotnet developer at Year 3 University",
-      "image": require("./assets/images/working.jpg"),
+      "image": require("./assets/images/Certificate/working.jpg"),
       "imageAlt": null,
       "footerLink": [
         {
@@ -449,7 +449,7 @@ const achievementSection = {
     {
       "title": "English B1 certificate",
       "subtitle": "440 TOEIC points",
-      "image": require("./assets/images/b1-cert.jpg"),
+      "image": require("./assets/images/Certificate/b1-cert.jpg"),
       "imageAlt": null,
       "footerLink": [
         {
