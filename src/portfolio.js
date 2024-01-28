@@ -211,6 +211,34 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      "title": "SQL",
+      "subtitle": "Udacity SQL",
+      "image": require("./assets/images/Certificate/udacity-sql.jpg"),
+      "imageAlt": null,
+      "footerLink": [ 
+        {
+          "name": "sql",
+          "url": null
+        },
+        {
+          "name": "postgresql",
+          "url": null
+        },
+        {
+          "name": "sql server",
+          "url": null
+        },
+        {
+          "name": "2024",
+          "url": null
+        },
+        {
+          "name": "Show Credential",
+          "url": "https://confirm.udacity.com/e/382c1482-bb86-11ee-9bdf-ebd6686d311a"
+        }
+      ]
+    },
+    {
       "title": "Google Project Management",
       "subtitle": "Project Management with Google's Project Management Certification",
       "image": require("./assets/images/Certificate/gg-project.png"),
