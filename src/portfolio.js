@@ -153,9 +153,9 @@ const workExperiences = {
       date: "February 2023 - August 2023", 
       desc: "Joined as a fresher, undergoing intensive training and hands-on projects to build expertise in .NET development. Gained valuable skills and knowledge in software development practices.",
       descBullets: [
-        "Engaged in rigorous training programs focused on .NET development",
-        "Worked on practical projects to apply theoretical knowledge",
-        "Developed a strong foundation in software development practices"
+        "Participated in hands-on training programs, learning about .NET development",
+        "Completed practical projects to put theoretical knowledge into practice.",
+        "Achieved graduation with the second-highest performance in 12 people in 3 month"
       ]
     },
     {
@@ -165,8 +165,8 @@ const workExperiences = {
       date: "August 2023 - Present",
       desc: "Working on outsourced software development projects in the logistics domain for the USA market. Collaborating with cross-functional teams to deliver high-quality solutions.",
       descBullets: [
-        "Participating in the development of logistics software solutions",
-        "Collaborating with cross-functional teams for project success"
+        "Apply Agile/Scrum process",
+        "Use AWS Services Cloud"
       ]
     }
   ]
