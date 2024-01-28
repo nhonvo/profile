@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.699635cb.css",
-    "main.js": "/profile/static/js/main.f5541eeb.js",
+    "main.js": "/profile/static/js/main.745679fb.js",
     "static/css/64.f2727ba0.chunk.css": "/profile/static/css/64.f2727ba0.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/profile/static/js/64.56dc6704.chunk.js",
     "static/css/769.17f198c1.chunk.css": "/profile/static/css/769.17f198c1.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/profile/static/js/769.bda0d7b7.chunk.js",
     "static/media/AI-Challenge.png": "/profile/static/media/AI-Challenge.279a57090fefe047bc53.png",
     "static/media/cloud-dev-udacity.png": "/profile/static/media/cloud-dev-udacity.a1ddfdc2c02e340faae7.png",
+    "static/media/udacity-sql.jpg": "/profile/static/media/udacity-sql.7f65c97ce99e3b87e4da.jpg",
     "static/media/it-got-talent.jpg": "/profile/static/media/it-got-talent.c3de1332021c6df38d39.jpg",
     "static/media/gg-project.png": "/profile/static/media/gg-project.d88968da4f421b52cf03.png",
     "static/media/e-form.png": "/profile/static/media/e-form.ecde3d6986e70a72ac9e.png",
@@ -34,7 +35,7 @@
     "index.html": "/profile/index.html",
     "static/media/talksCardBack.svg": "/profile/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.699635cb.css.map": "/profile/static/css/main.699635cb.css.map",
-    "main.f5541eeb.js.map": "/profile/static/js/main.f5541eeb.js.map",
+    "main.745679fb.js.map": "/profile/static/js/main.745679fb.js.map",
     "64.f2727ba0.chunk.css.map": "/profile/static/css/64.f2727ba0.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/profile/static/js/64.56dc6704.chunk.js.map",
     "769.17f198c1.chunk.css.map": "/profile/static/css/769.17f198c1.chunk.css.map",
@@ -42,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.699635cb.css",
-    "static/js/main.f5541eeb.js"
+    "static/js/main.745679fb.js"
   ]
 }
