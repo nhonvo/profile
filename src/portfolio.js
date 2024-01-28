@@ -337,7 +337,7 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link Article",
+          "name": "Show Credential",
           "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14613378-cuoc-thi-code-your-future-2023"
         },
         {
@@ -353,10 +353,6 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
-          "url": "null"
-        },
-        {
           "name": "2023",
           "url": null
         }
@@ -369,7 +365,7 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
+          "name": "Show Credential",
           "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
         },
         {
@@ -385,7 +381,7 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
+          "name": "Show Credential",
           "url": "https://www.hutech.edu.vn/homepage/tin-tuc/hoat-dong-sinh-vien/14607882-khoa-cong-nghe-thong-tin-to-chuc-vong-chung-ket-va-le-trao-giai-cuoc-thi-hdbank-hackathon-2022"
         },
         {
@@ -401,10 +397,6 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
-        {
           "name": "2022",
           "url": null
         }
@@ -416,10 +408,6 @@ const achievementSection = {
       "image": require("./assets/images/Competition/sv5t-faculty-2022.jpg"),
       "imageAlt": null,
       "footerLink": [
-        {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
         {
           "name": "2022",
           "url": null
@@ -433,10 +421,6 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
-        {
           "name": "2022",
           "url": null
         }
@@ -448,10 +432,6 @@ const achievementSection = {
       "image": require("./assets/images/Competition/AI-Challenge.png"),
       "imageAlt": null,
       "footerLink": [
-        {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
         {
           "name": "2022",
           "url": null
@@ -465,10 +445,6 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
-        {
           "name": "2022",
           "url": null
         }
@@ -481,7 +457,7 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
+          "name": "2022",
           "url": null
         }
       ]
@@ -492,10 +468,6 @@ const achievementSection = {
       "image": require("./assets/images/Competition/scholarship2020-2021.jpg"),
       "imageAlt": null,
       "footerLink": [
-        {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
         {
           "name": "2021",
           "url": null
@@ -509,10 +481,6 @@ const achievementSection = {
       "imageAlt": null,
       "footerLink": [
         {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
-        {
           "name": "2021",
           "url": null
         }
@@ -524,10 +492,6 @@ const achievementSection = {
       "image": null,
       "imageAlt": null,
       "footerLink": [
-        {
-          "name": "Link",
-          "url": "https://www.hutech.edu.vn/khoacntt/tin-tuc/tin-tuc-su-kien/14608074-chung-ket-cuoc-thi-tim-kiem-tai-nang-cntt-2022-hutech-it-got-talent-2022"
-        },
         {
           "name": "2021",
           "url": null
