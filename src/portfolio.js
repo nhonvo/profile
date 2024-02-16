@@ -89,14 +89,14 @@ https://fontawesome.com/icons?d=gallery */
       displayName: "SQL Server"
     },
     {
-        skillName: "postgresql",
-        fontAwesomeClassname: "fas fa-database",
-        displayName: "PostgreSQL"
+      skillName: "postgresql",
+      fontAwesomeClassname: "fas fa-database",
+      displayName: "PostgreSQL"
     },
     {
-        skillName: "mongo",
-        fontAwesomeClassname: "fas fa-cube",
-        displayName: "MongoDB"
+      skillName: "mongo",
+      fontAwesomeClassname: "fas fa-cube",
+      displayName: "MongoDB"
     }
   ],
   display: true // Set false to hide this section, defaults to true
@@ -150,7 +150,7 @@ const workExperiences = {
       role: "Fresher .NET Developer",
       company: "FPT Software Academy",
       companylogo: require("./assets/images/fpt-academy-logo.png"),
-      date: "February 2023 - August 2023", 
+      date: "February 2023 - August 2023",
       desc: "Joined as a fresher, undergoing intensive training and hands-on projects to build expertise in .NET development. Gained valuable skills and knowledge in software development practices.",
       descBullets: [
         "Participated in hands-on training programs, learning about .NET development",
@@ -215,7 +215,7 @@ const achievementSection = {
       "subtitle": "Udacity SQL",
       "image": require("./assets/images/Certificate/udacity-sql.jpg"),
       "imageAlt": null,
-      "footerLink": [ 
+      "footerLink": [
         {
           "name": "sql",
           "url": null
@@ -243,7 +243,7 @@ const achievementSection = {
       "subtitle": "Project Management with Google's Project Management Certification",
       "image": require("./assets/images/Certificate/gg-project.png"),
       "imageAlt": null,
-      "footerLink": [ 
+      "footerLink": [
         {
           "name": "management",
           "url": null
@@ -477,7 +477,7 @@ const achievementSection = {
     {
       "title": "Student of 5 Merits Level School 2021",
       "subtitle": "Acknowledged as a student of 5 merits level school in 2021.",
-      "image": null,
+      "image": require("./assets/images/Competition/sv5t-faculty-2021.jpg"),
       "imageAlt": null,
       "footerLink": [
         {
@@ -489,7 +489,19 @@ const achievementSection = {
     {
       "title": "Student of 5 Merits Faculty Level 2021",
       "subtitle": "Acknowledged as a student of 5 merits level faculty in 2021.",
-      "image": null,
+      "image": require("./assets/images/Competition/sv5t2021.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "2021",
+          "url": null
+        }
+      ]
+    },
+    {
+      "title": "Top typical students semester 1 2021",
+      "subtitle": "Acknowledged as Top typical students semester 1 2021 with GPA 4.0",
+      "image": require("./assets/images/Competition/svtb-hk1-2021.jpg"),
       "imageAlt": null,
       "footerLink": [
         {
