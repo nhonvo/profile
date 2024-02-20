@@ -187,13 +187,51 @@ const bigProjects = {
   subtitle: "PERSONAL PROJECTS",
   projects: [
     {
-      image: require("./assets/images/e-form.png"),
+      image: require("./assets/images/Project/e-form.png"),
       projectName: "E-Forms",
       projectDesc: "A platform for easy creation and sharing of forms. techStack: PHP, Laravel, PostgreSQL, Vue.js",
       footerLink: [
         {
           name: "Visit Website",
           url: "https://e-forms.vn/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Project/nobita.png"),
+      projectName: "Nobita - Happy digital bank",
+      projectDesc: "Won first prize HDBank hackathon competition, Integrate with api of Hdbank build electronic wallet with api .net core and flutter mobile app",
+      footerLink: [
+        {
+          name: "API Project",
+          url: "https://github.com/nhonvo/nobita-server"
+        },
+        {
+          name: "Mobile Project",
+          url: "https://github.com/nhonvo/nobita-mobi"
+        },
+        {
+          name: "Check demo",
+          url: "drive-link"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/Project/fake-news.png"),
+      projectName: "Owl trust - Fake news filter",
+      projectDesc: "Reading news app help user access reliable news which app build api by .net core and flutter mobile app",
+      footerLink: [
+        {
+          name: "API Project",
+          url: "https://github.com/nhonvo/fake-news-filter-server"
+        },
+        {
+          name: "Mobile Project",
+          url: "https://github.com/nhonvo/fake-news-filter-mobi"
+        },
+        {
+          name: "Check demo",
+          url: "drive-link"
         }
       ]
     }
