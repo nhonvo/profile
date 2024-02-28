@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.919e3229.css",
-    "main.js": "/profile/static/js/main.4c13e262.js",
+    "main.js": "/profile/static/js/main.af518978.js",
     "static/css/64.f2727ba0.chunk.css": "/profile/static/css/64.f2727ba0.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/profile/static/js/64.56dc6704.chunk.js",
     "static/css/769.17f198c1.chunk.css": "/profile/static/css/769.17f198c1.chunk.css",
@@ -9,11 +9,13 @@
     "static/media/sv5t-faculty-2022.jpg": "/profile/static/media/sv5t-faculty-2022.3834607caee8251fe5ba.jpg",
     "static/media/scholarship2020-2021.jpg": "/profile/static/media/scholarship2020-2021.d67672264f2647df67c1.jpg",
     "static/media/AI-Challenge.png": "/profile/static/media/AI-Challenge.279a57090fefe047bc53.png",
+    "static/media/nobita.png": "/profile/static/media/nobita.6960a4a78a99c34f3d80.png",
     "static/media/sv5t-faculty-2021.jpg": "/profile/static/media/sv5t-faculty-2021.fc431c380492597cc7d9.jpg",
     "static/media/svtb-hk1-2021.jpg": "/profile/static/media/svtb-hk1-2021.4f8dd8209e68e2fb9065.jpg",
     "static/media/cloud-dev-udacity.png": "/profile/static/media/cloud-dev-udacity.a1ddfdc2c02e340faae7.png",
     "static/media/udacity-sql.jpg": "/profile/static/media/udacity-sql.7f65c97ce99e3b87e4da.jpg",
     "static/media/it-got-talent.jpg": "/profile/static/media/it-got-talent.c3de1332021c6df38d39.jpg",
+    "static/media/fake-news.png": "/profile/static/media/fake-news.7c654841b9c66c369fd2.png",
     "static/media/gg-project.png": "/profile/static/media/gg-project.d88968da4f421b52cf03.png",
     "static/media/e-form.png": "/profile/static/media/e-form.ecde3d6986e70a72ac9e.png",
     "static/media/gg-data.png": "/profile/static/media/gg-data.bf2bbdffd863c7dc3042.png",
@@ -37,7 +39,7 @@
     "index.html": "/profile/index.html",
     "static/media/talksCardBack.svg": "/profile/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.919e3229.css.map": "/profile/static/css/main.919e3229.css.map",
-    "main.4c13e262.js.map": "/profile/static/js/main.4c13e262.js.map",
+    "main.af518978.js.map": "/profile/static/js/main.af518978.js.map",
     "64.f2727ba0.chunk.css.map": "/profile/static/css/64.f2727ba0.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/profile/static/js/64.56dc6704.chunk.js.map",
     "769.17f198c1.chunk.css.map": "/profile/static/css/769.17f198c1.chunk.css.map",
@@ -45,6 +47,6 @@
   },
   "entrypoints": [
     "static/css/main.919e3229.css",
-    "static/js/main.4c13e262.js"
+    "static/js/main.af518978.js"
   ]
 }
