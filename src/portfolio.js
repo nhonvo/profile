@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Passionate software developer and tech blogger with a love for C# and open source. Beyond the code, I'm an avid fan of anime."
   ),
-  resumeLink: "https://drive.google.com/file/d/1GbAkeIPi5vcYcj-U0J4qCY4SUdNMSoMJ/view?usp=drive_link", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1-to_8Yu1m3wElR9HMEQugRmzueXqOuwO/view", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -48,12 +48,11 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "Passionate Software Developer with a Focus on Backend (C#/.NET) and Cloud (AWS)",
+  subTitle: "Software developer crafting useful applications for personal and community use, driven by a love for exploring and learning new technologies.",
   skills: [
-    emoji("⚡ Develop robust and scalable backend solutions using C# and .NET"),
-    emoji("⚡ Implement efficient Web APIs for seamless communication in your applications"),
-    emoji("⚡ Utilize AWS services for cloud-based solutions and scalability")
-  ],
+    emoji("🛠️ Build innovative applications."),
+    emoji("📝 Share insights through technical blogs."),
+    emoji("🌐 Explore and learn new technologies.")],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -126,16 +125,16 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Backend", //Insert stack or technology you have experience in
+      Stack: "C#", //Insert stack or technology you have experience in
       progressPercentage: "90%" //Insert relative proficiency in percentage
     },
     {
-      Stack: "Cloud",
-      progressPercentage: "70%"
+      Stack: "Python",
+      progressPercentage: "50%"
     },
     {
-      Stack: "Programming",
-      progressPercentage: "70%"
+      Stack: "Javascript",
+      progressPercentage: "50%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
@@ -163,10 +162,11 @@ const workExperiences = {
       company: "FPT Software",
       companylogo: require("./assets/images/fpt-software-logo.jpg"),
       date: "August 2023 - Present",
-      desc: "Working on outsourced software development projects in the logistics domain for the USA market. Collaborating with cross-functional teams to deliver high-quality solutions.",
+      desc: "Developed a logistics system featuring a specialized quoting app for a US client. Worked closely with customers and analysts to plan and implement new features.",
       descBullets: [
-        "Apply Agile/Scrum process",
-        "Use AWS Services Cloud"
+        "Built a microservices architecture with C#, .NET Core, PostgreSQL, DynamoDB, SNS, SQS, GraphQL, Hangfire, Splunk, and New Relic.",
+        "Followed Gitflow for code management and hosted the system on AWS.",
+        "Implemented Agile methodology and utilized Rally for effective project management."
       ]
     }
   ]
