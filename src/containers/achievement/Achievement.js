@@ -14,7 +14,7 @@ export default function Achievement() {
 
   const displayedCards = showAllCards
     ? achievementSection.achievementsCards
-    : achievementSection.achievementsCards.slice(0, 3);
+    : achievementSection.achievementsCards.slice(0, 5);
 
   return (
     <div className="main" id="achievements">

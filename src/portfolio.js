@@ -249,6 +249,30 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      "title": "MongoDB Certified Associate Developer",
+      "subtitle": "Mongo",
+      "image": require("./assets/images/Certificate/mongo-cert.jpg"),
+      "imageAlt": null,
+      "footerLink": [
+        {
+          "name": "nosql",
+          "url": null
+        },
+        {
+          "name": "mongo",
+          "url": null
+        },
+        {
+          "name": "2024",
+          "url": null
+        },
+        {
+          "name": "Show Credential",
+          "url": "https://learn.mongodb.com/c/G5hEeS7nRIaWzcVDQkCQFA"
+        }
+      ]
+    },
+    {
       "title": "SQL",
       "subtitle": "Udacity SQL",
       "image": require("./assets/images/Certificate/udacity-sql.jpg"),
