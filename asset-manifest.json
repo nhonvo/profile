@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.919e3229.css",
-    "main.js": "/profile/static/js/main.08ff22af.js",
+    "main.js": "/profile/static/js/main.b0e0d02b.js",
     "static/css/64.f2727ba0.chunk.css": "/profile/static/css/64.f2727ba0.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/profile/static/js/64.56dc6704.chunk.js",
     "static/css/769.17f198c1.chunk.css": "/profile/static/css/769.17f198c1.chunk.css",
@@ -40,7 +40,7 @@
     "index.html": "/profile/index.html",
     "static/media/talksCardBack.svg": "/profile/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.919e3229.css.map": "/profile/static/css/main.919e3229.css.map",
-    "main.08ff22af.js.map": "/profile/static/js/main.08ff22af.js.map",
+    "main.b0e0d02b.js.map": "/profile/static/js/main.b0e0d02b.js.map",
     "64.f2727ba0.chunk.css.map": "/profile/static/css/64.f2727ba0.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/profile/static/js/64.56dc6704.chunk.js.map",
     "769.17f198c1.chunk.css.map": "/profile/static/css/769.17f198c1.chunk.css.map",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.919e3229.css",
-    "static/js/main.08ff22af.js"
+    "static/js/main.b0e0d02b.js"
   ]
 }
