@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Passionate software developer and tech blogger with a love for C# and open source. Beyond the code, I'm an avid fan of anime."
   ),
-  resumeLink: "https://drive.google.com/file/d/1zIavbbfYSVhGRyWzcnnCz9fiUxfwFrC5/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://nhonvo.github.io/cv/", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
